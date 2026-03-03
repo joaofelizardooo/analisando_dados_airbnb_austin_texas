@@ -29,7 +29,7 @@ A análise foi estruturada para extrair conclusões significativas sobre o compo
 2.  **Limpeza e Tratamento:** Identificação de valores ausentes e remoção de variáveis irrelevantes.
 3.  **Análise Estatística:** Exploração de variáveis numéricas e categóricas para entender a distribuição dos dados.
 4.  **Visualizações:** Gráficos de densidade, histogramas e visualizações geográficas.
-5.  **Conclusão:** Síntese dos achados com base em rigor estatístico.
+5.  **Conclusão:** Síntese dos achados.
 
 [Link para o projeto completo](https://github.com/joaofelizardooo/analisando_dados_airbnb_austin_texas/blob/main/Analisando_os_Dados_do_Airbnb_(Austin).ipynb)
 
